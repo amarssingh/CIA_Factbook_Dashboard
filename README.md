@@ -103,7 +103,7 @@ CIA_Factbook_Dashboard/
 ![Scatter Plot](screenshots/scatter_plot.png)
 
 ### Choropleth Map - World Population
-![Choropleth Map](screenshots/choropleth_map.png)
+![Choropleth Map](screenshots\choropleth _map.png)
 
 
 --- 
