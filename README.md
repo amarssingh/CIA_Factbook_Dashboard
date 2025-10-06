@@ -39,13 +39,13 @@ git clone https://github.com/amarssingh/CIA_Factbook_Dashboard.git
 cd CIA_Factbook_Dashboard
 ```
 
-3. **Install dependencies**
+2. **Install dependencies**
 
 ```
 pip install -r requirements.txt
 ```
 
-4. **Run the dashboard**
+3. **Run the dashboard**
 
 ```
 streamlit run dashboard.py
@@ -53,15 +53,15 @@ streamlit run dashboard.py
 
 ---
 
-##Usage Instructions
+## Usage Instructions
 
 1. **Use the sidebar filters to select ranges for:**
 
-- **Population**
+ - **Population**
 
-- **Area**
+ - **Area**
 
-- **Population Growth (%)**
+ - **Population Growth (%)**
 
 2. **Visualizations will update automatically according to your filter selection.**
 
@@ -95,6 +95,15 @@ CIA_Factbook_Dashboard/
 ---
 
 ## Screenshots
+
+### Bar Chart - Top 10 Countries by Population
+![Bar Chart](screenshots/bar_chart.png)
+
+### Scatter Plot - Population vs Area
+![Scatter Plot](screenshots/scatter_plot.png)
+
+### Choropleth Map - World Population
+![Choropleth Map](screenshots/choropleth_map.png)
 
 
 --- 
