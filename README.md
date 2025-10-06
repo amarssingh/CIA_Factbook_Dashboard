@@ -9,6 +9,12 @@ The **CIA Factbook Dashboard** is an interactive data visualization project that
 
 ---
 
+## Live Demo
+
+Check out the interactive dashboard here: [CIA Factbook Dashboard][![Open in Streamlit](https://img.shields.io/badge/Streamlit-Live-blue?logo=streamlit)](https://earthdata.streamlit.app/)
+
+---
+
 ## **Features**
 
 - **Data Exploration**: Filter countries by population, area, and population growth rate.
