@@ -1,17 +1,16 @@
 # Core libraries
-pandas==2.1.0
-numpy==1.26.0
+pandas>=1.5.3,<2.0.0   # stable and compatible version
+numpy>=1.24.0
 
 # SQL and database
-ipython-sql==0.5.3
-sqlalchemy==2.0.24
-sqlite3 ; python_version >= "3.0"
+sqlalchemy>=2.0.24
+ipython-sql>=0.4.0
 
 # Visualization
-plotly==5.18.0
+plotly>=5.18.0
 
 # Web app / dashboard
-streamlit==1.28.0
+streamlit>=1.28.0
 
-# Optional: For nicer tables if needed
-prettytable==3.8.0
+# Optional: For nicer tables
+prettytable>=3.8.0
